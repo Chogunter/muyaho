@@ -1,6 +1,4 @@
 const Discord = require("discord.js");
-const dotenv = require("dotenv");
-dotenv.config();
 let room;
 
 const client = new Discord.Client({
